@@ -4,11 +4,11 @@ import java.util.Scanner;
  * Created by iyasuwatts on 10/17/17.
  */
 
-public class SumOfNumber {
+public class SumOfNumbers {
 
     public static void main(String[] args){
 
-        SumOfNumber main_object = new SumOfNumber();
+        SumOfNumbers main_object = new SumOfNumbers();
 
 
 
